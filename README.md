@@ -45,13 +45,13 @@ Passionate about applying, strengthening, and refining my knowledge through prac
 <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
-<h2> GitHub Stats </h2>
+<h2> 📊 GitHub Stats 📊 </h2>
 
 
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center"><strong>  Gɪᴛʜᴜʙ Sᴛᴀᴛs  </strong></h3>
       <p align="center">
         <a href="https://github.com/FacundoNicolasTorres">
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=FacundoNicolasTorres&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
@@ -67,4 +67,15 @@ Passionate about applying, strengthening, and refining my knowledge through prac
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/FacundoNicolasTorres">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=FacundoNicolasTorres&repo=ResolucionCodigoConcurrente&theme=nightowl&show_owner=true" alt="Cryptos Project" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
