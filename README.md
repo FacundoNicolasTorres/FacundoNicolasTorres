@@ -76,6 +76,14 @@ Passionate about applying, strengthening, and refining my knowledge through prac
         </a>
       </p>
     </td>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/FacundoNicolasTorres">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=FacundoNicolasTorres&repo=PaginaWebProyectoFinal-MateriaTallerDeMarcado-FacundoTorres-2023&theme=nightowl&show_owner=true" alt="Cryptos Project" />
+        </a>
+      </p>
+     </td>
   </tr>
 </table>
 
